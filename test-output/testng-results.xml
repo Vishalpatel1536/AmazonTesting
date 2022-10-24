@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="14" total="15" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-23T22:54:02 EDT" name="Default suite" finished-at="2022-10-23T22:54:31 EDT" duration-ms="29317">
+    <groups>
+      <group name="yourorders">
+        <method signature="Testlayer.cancelledorder()[pri:0, instance:testlayer.Testlayer@10e31a9a]" name="cancelledorder" class="testlayer.Testlayer"/>
+      </group> <!-- yourorders -->
+    </groups>
+    <test started-at="2022-10-23T22:54:02 EDT" name="Default test" finished-at="2022-10-23T22:54:31 EDT" duration-ms="29317">
+      <class name="testlayer.Testlayer">
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testlayer.Testlayer@10e31a9a]" started-at="2022-10-23T22:54:02 EDT" name="initsetup" finished-at="2022-10-23T22:54:06 EDT" duration-ms="4073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="cancelledorder()[pri:0, instance:testlayer.Testlayer@10e31a9a]" started-at="2022-10-23T22:54:06 EDT" name="cancelledorder" finished-at="2022-10-23T22:54:15 EDT" duration-ms="8958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cancelledorder -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testlayer.Testlayer@10e31a9a]" started-at="2022-10-23T22:54:15 EDT" name="closebrowser" finished-at="2022-10-23T22:54:31 EDT" duration-ms="16243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testlayer.Testlayer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

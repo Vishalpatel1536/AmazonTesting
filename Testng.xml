@@ -1,0 +1,10 @@
+<suite name="Amazon" parallel="tests">
+
+<test name="TestNG" allow-return-Values="true">
+<classes>
+<class name="testlayer.Testlayer"/>
+</classes>
+</test>
+
+
+</suite>
